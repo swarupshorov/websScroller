@@ -1,38 +1,1046 @@
-﻿<div class="cb-col cb-col-100 cb-lst-itm cb-lst-itm-lg">
-	<div class="cb-col cb-col-33" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
-		<meta content="205" itemprop="width"/> 
-		<meta content="152" itemprop="height"/> 
-		<meta content="https:/a/img/v1/205x152/i1/c165503/maharaj-will-be-key-for-south.jpg" itemprop="url"/>
-		<a href="/cricket-news/106723/live-cricket-score-south-africa-vs-sri-lanka-1st-test-day-4-durban-kusal-perera-vernon-philander-dale-steyn-kagiso-rabada" target="_self" title="Live Cricket Score - South Africa vs Sri Lanka, 1st Test, Day 4, Durban">
-			<img alt="Maharaj will be key for South Africa on the fourth day." class="cb-lst-img" height="152" itemprop="image" src="/a/img/v1/205x152/i1/c165503/maharaj-will-be-key-for-south.jpg" style="padding:0px;" title="Maharaj will be key for South Africa on the fourth day." width="205"/>
-		</a>
-	</div>
-	<div class="cb-col-67 cb-nws-lst-rt cb-col cb-col-text-container">
-		<div class="cb-nws-time">
-			<a class="cb-text-link" href="/cricket-news/editorial/live-blogs" target="_self" title="LIVE BLOG">LIVE BLOG</a>
-			<span class="cb-dot">���</span>SRI LANKA IN SOUTH AFRICA 2019
-		</div>
-		<h2 class="cb-nws-hdln cb-font-18 line-ht24">
-			<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/106723/live-cricket-score-south-africa-vs-sri-lanka-1st-test-day-4-durban-kusal-perera-vernon-philander-dale-steyn-kagiso-rabada" target="_self" title="Live Cricket Score - South Africa vs Sri Lanka, 1st Test, Day 4, Durban">Live Cricket Score - South Africa vs Sri Lanka, 1st Test, Day 4, Durban</a>
-		</h2>
-		<div class="cb-nws-intr">Catch all the live updates from the fourth day of the first Test between South Africa and Sri Lanka in Durban</div>
-		<div>
-			<span class="cb-nws-time">1h ago</span>
-		</div>
-	</div>
-</div>
-
-================== Beautiful Soup ================
-Beautiful Soup is a Python library for pulling data out of HTML and XML files.
-It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. 
-It commonly saves programmers hours or days of work.
-
-===================== pandas =====================
-Pandas is an open source Python package that provides numerous tools for data analysis.
-
-=================== requests =====================
-
-Requests is an Apache2 Licensed HTTP library, written in Python. 
-It is designed to be used by humans to interact with the language.
-This means you don’t have to manually add query strings to URLs, or form-encode your POST data. 
-Don’t worry if that made no sense to you. It will in due time.
+﻿<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=1" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="774,970" data-leveldiff="50" data-show="#level1" titledes="6.25,2.95"></div></a>
+<div class="tooltip" id="level1" style="z-index:9999l;">
+<strong>Station Name:</strong> Chiringa<br>
+<strong>River Name:</strong> Matamuhuri<br>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Cox's Bazar<br/>
+<strong>Upazilla:</strong> Chakaria<br/>
+<strong>Union:</strong> Baraitali<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.95  mPWD<br/>
+<strong>Highest Water Level:</strong> 7.32 mPWD<br/>
+<strong>Danger Level:</strong> 6.25  mPWD            </br></br></div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=2" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="798,965" data-leveldiff="50" data-show="#level2" titledes="12.25,6.73"></div></a>
+<div class="tooltip" id="level2" style="z-index:9999l;">
+<strong>Station Name:</strong> Lama<br/>
+<strong>River Name:</strong> Matamuhuri<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Cox's Bazar<br/>
+<strong>Upazilla:</strong> Chakaria<br/>
+<strong>Union:</strong> Kakhara<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 6.73  mPWD<br/>
+<strong>Highest Water Level:</strong> 15.46 mPWD<br/>
+<strong>Danger Level:</strong> 12.25  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=4" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="769,895" data-leveldiff="50" data-show="#level4" titledes="7.00,2.33"></div></a>
+<div class="tooltip" id="level4" style="z-index:9999l;">
+<strong>Station Name:</strong> Dohazari<br/>
+<strong>River Name:</strong> Sangu<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Chittagong<br/>
+<strong>Upazilla:</strong> Chandanaish<br/>
+<strong>Union:</strong> Hashimpur<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.33  mPWD<br/>
+<strong>Highest Water Level:</strong> 8.37 mPWD<br/>
+<strong>Danger Level:</strong> 7.00  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=6" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="798,887" data-leveldiff="50" data-show="#level6" titledes="15.25,5.40"></div></a>
+<div class="tooltip" id="level6" style="z-index:9999l;">
+<strong>Station Name:</strong> Bandarban<br/>
+<strong>River Name:</strong> Sangu<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Bandarban<br/>
+<strong>Upazilla:</strong> Bandarban Sadar<br/>
+<strong>Union:</strong> Kuhalong<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 5.40  mPWD<br/>
+<strong>Highest Water Level:</strong> 20.70 mPWD<br/>
+<strong>Danger Level:</strong> 15.25  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=10" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="729,817" data-leveldiff="50" data-show="#level10" titledes="9.50,4.64"></div></a>
+<div class="tooltip" id="level10" style="z-index:9999l;">
+<strong>Station Name:</strong> Panchpukuria<br/>
+<strong>River Name:</strong> Halda<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Chittagong<br/>
+<strong>Upazilla:</strong> Fatikchhari<br/>
+<strong>Union:</strong> Samitirhat<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 4.64  mPWD<br/>
+<strong>Highest Water Level:</strong> 12.54 mPWD<br/>
+<strong>Danger Level:</strong> 9.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=12" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="208,808" data-leveldiff="50" data-show="#level12" titledes="3.95,3.16"></div></a>
+<div class="tooltip" id="level12" style="z-index:9999l;">
+<strong>Station Name:</strong> Shakra<br/>
+<strong>River Name:</strong> Ichamati<br/>
+<strong>Division:</strong> Khulna<br/>
+<strong>District:</strong> Satkhira<br/>
+<strong>Upazilla:</strong> Debhata<br/>
+<strong>Union:</strong> Parulia<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 3.16  mPWD<br/>
+<strong>Highest Water Level:</strong> 4.69 mPWD<br/>
+<strong>Danger Level:</strong> 3.95  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=13" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="706,768" data-leveldiff="50" data-show="#level13" titledes="15.25,11.50"></div></a>
+<div class="tooltip" id="level13" style="z-index:9999l;">
+<strong>Station Name:</strong> Narayanhat<br/>
+<strong>River Name:</strong> Halda<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Chittagong<br/>
+<strong>Upazilla:</strong> Fatikchhari<br/>
+<strong>Union:</strong> Narayanhat<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 11.50  mPWD<br/>
+<strong>Highest Water Level:</strong> 19.30 mPWD<br/>
+<strong>Danger Level:</strong> 15.25  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=14" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="318,770" data-leveldiff="50" data-show="#level14" titledes="3.05,0.57"></div></a>
+<div class="tooltip" id="level14" style="z-index:9999l;">
+<strong>Station Name:</strong> Khulna<br/>
+<strong>River Name:</strong> Rupsa<br/>
+<strong>Division:</strong> Khulna<br/>
+<strong>District:</strong> Khulna<br/>
+<strong>Upazilla:</strong> Khalishpur Thana<br/>
+<strong>Union:</strong> Paurashava<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 0.57  mPWD<br/>
+<strong>Highest Water Level:</strong> 3.48 mPWD<br/>
+<strong>Danger Level:</strong> 3.05  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=17" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="703,738" data-leveldiff="50" data-show="#level17" titledes="17.35,12.82"></div></a>
+<div class="tooltip" id="level17" style="z-index:9999l;">
+<strong>Station Name:</strong> Ramgarh<br/>
+<strong>River Name:</strong> Feni<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Chittagong<br/>
+<strong>Upazilla:</strong> Fatikchhari<br/>
+<strong>Union:</strong> Bagan Bazar<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 12.82  mPWD<br/>
+<strong>Highest Water Level:</strong> 21.42 mPWD<br/>
+<strong>Danger Level:</strong> 17.35  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=18" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="232,713" data-leveldiff="50" data-show="#level18" titledes="4.10,2.06"></div></a>
+<div class="tooltip" id="level18" style="z-index:9999l;">
+<strong>Station Name:</strong> Jhikargacha<br/>
+<strong>River Name:</strong> Kobadak<br/>
+<strong>Division:</strong> Khulna<br/>
+<strong>District:</strong> Jessore<br/>
+<strong>Upazilla:</strong> Jhikargachha<br/>
+<strong>Union:</strong> Gadkhali<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.06  mPWD<br/>
+<strong>Highest Water Level:</strong> 5.59 mPWD<br/>
+<strong>Danger Level:</strong> 4.10  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=19" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="432,697" data-leveldiff="50" data-show="#level19" titledes="4.20,1.75"></div></a>
+<div class="tooltip" id="level19" style="z-index:9999l;">
+<strong>Station Name:</strong> Madaripur<br/>
+<strong>River Name:</strong> Arialkhan<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Madaripur<br/>
+<strong>Upazilla:</strong> Madaripur Sadar<br/>
+<strong>Union:</strong> Paurashava<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 1.75  mPWD<br/>
+<strong>Highest Water Level:</strong> 5.80 mPWD<br/>
+<strong>Danger Level:</strong> 4.20  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=20" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="510,688" data-leveldiff="50" data-show="#level20" titledes="3.50,1.54"></div></a>
+<div class="tooltip" id="level20" style="z-index:9999l;">
+<strong>Station Name:</strong> Chandpur<br/>
+<strong>River Name:</strong> Lower Meghna<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Chandpur<br/>
+<strong>Upazilla:</strong> Chandpur Sadar<br/>
+<strong>Union:</strong> Paurashava<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 1.54  mMSL<br/>
+<strong>Highest Water Level:</strong> 4.84 mMSL<br/>
+<strong>Danger Level:</strong> 3.50  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=21" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="654,689" data-leveldiff="50" data-show="#level21" titledes="13.00,9.08"></div></a>
+<div class="tooltip" id="level21" style="z-index:9999l;">
+<strong>Station Name:</strong> Parshuram<br/>
+<strong>River Name:</strong> Muhuri<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Feni<br/>
+<strong>Upazilla:</strong> Parshuram<br/>
+<strong>Union:</strong> Mirzanagar<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 9.08  mPWD<br/>
+<strong>Highest Water Level:</strong> 16.33 mPWD<br/>
+<strong>Danger Level:</strong> 13.00  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=22" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="474,670" data-leveldiff="50" data-show="#level22" titledes="4.45,2.50"></div></a>
+<div class="tooltip" id="level22" style="z-index:9999l;">
+<strong>Station Name:</strong> Sureshswar<br/>
+<strong>River Name:</strong> Padma<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Shariatpur<br/>
+<strong>Upazilla:</strong> Naria<br/>
+<strong>Union:</strong> Kedarpur<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.50  mPWD<br/>
+<strong>Highest Water Level:</strong> 5.94 mPWD<br/>
+<strong>Danger Level:</strong> 4.45  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=23" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="611,641" data-leveldiff="50" data-show="#level23" titledes="10.75,5.78"></div></a>
+<div class="tooltip" id="level23" style="z-index:9999l;">
+<strong>Station Name:</strong> Comilla<br/>
+<strong>River Name:</strong> Gumti<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Comilla<br/>
+<strong>Upazilla:</strong> Comilla Sadar<br/>
+<strong>Union:</strong> Panchthubi<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 5.78  mMSL<br/>
+<strong>Highest Water Level:</strong> 12.55 mMSL<br/>
+<strong>Danger Level:</strong> 10.75  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=24" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="312,629" data-leveldiff="50" data-show="#level24" titledes="8.20,2.30"></div></a>
+<div class="tooltip" id="level24" style="z-index:9999l;">
+<strong>Station Name:</strong> Kamarkhali<br/>
+<strong>River Name:</strong> Gorai<br/>
+<strong>Division:</strong> Khulna<br/>
+<strong>District:</strong> Magura<br/>
+<strong>Upazilla:</strong> Magura Sadar<br/>
+<strong>Union:</strong> Kasundi<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.30  mPWD<br/>
+<strong>Highest Water Level:</strong> 9.48 mPWD<br/>
+<strong>Danger Level:</strong> 8.20  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=25" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="431,633" data-leveldiff="50" data-show="#level25" titledes="6.30,3.59"></div></a>
+<div class="tooltip" id="level25" style="z-index:9999l;">
+<strong>Station Name:</strong> Bhagyakul<br/>
+<strong>River Name:</strong> Padma<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Munshiganj<br/>
+<strong>Upazilla:</strong> Sreenagar<br/>
+<strong>Union:</strong> Baghra<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 3.59  mPWD<br/>
+<strong>Highest Water Level:</strong> 7.58 mPWD<br/>
+<strong>Danger Level:</strong> 6.30  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=27" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="364,616" data-leveldiff="50" data-show="#level27" titledes="7.50,2.69"></div></a>
+<div class="tooltip" id="level27" style="z-index:9999l;">
+<strong>Station Name:</strong> Faridpur<br/>
+<strong>River Name:</strong> Kumar<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Faridpur<br/>
+<strong>Upazilla:</strong> Faridpur Sadar<br/>
+<strong>Union:</strong> Aliabad<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.69  mPWD<br/>
+<strong>Highest Water Level:</strong> 8.76 mPWD<br/>
+<strong>Danger Level:</strong> 7.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=29" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="573,609" data-leveldiff="50" data-show="#level29" titledes="8.50,7.06"></div></a>
+<div class="tooltip" id="level29" style="z-index:9999l;">
+<strong>Station Name:</strong> Jibanpur<br/>
+<strong>River Name:</strong> Gumti<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Comilla<br/>
+<strong>Upazilla:</strong> Debidwar<br/>
+<strong>Union:</strong> Debidwar<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 7.06  mMSL<br/>
+<strong>Highest Water Level:</strong>  mMSL<br/>
+<strong>Danger Level:</strong> 8.50  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=30" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="184,603" data-leveldiff="50" data-show="#level30" titledes="12.05,5.43"></div></a>
+<div class="tooltip" id="level30" style="z-index:9999l;">
+<strong>Station Name:</strong> Chuadanga<br/>
+<strong>River Name:</strong> Mathabhanga<br/>
+<strong>Division:</strong> Khulna<br/>
+<strong>District:</strong> Chuadanga<br/>
+<strong>Upazilla:</strong> Chuadanga Sadar<br/>
+<strong>Union:</strong> Alokdia<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 5.43  mPWD<br/>
+<strong>Highest Water Level:</strong> 12.67 mPWD<br/>
+<strong>Danger Level:</strong> 12.05  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=31" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="489,604" data-leveldiff="50" data-show="#level31" titledes="5.50,3.26"></div></a>
+<div class="tooltip" id="level31" style="z-index:9999l;">
+<strong>Station Name:</strong> Narayanganj<br/>
+<strong>River Name:</strong> Lakhya<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Narayanganj<br/>
+<strong>Upazilla:</strong> Narayanganj Sadar<br/>
+<strong>Union:</strong> Sumil Para<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 3.26  mPWD<br/>
+<strong>Highest Water Level:</strong> 6.93 mPWD<br/>
+<strong>Danger Level:</strong> 5.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=32" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="474,600" data-leveldiff="50" data-show="#level32" titledes="6.00,2.75"></div></a>
+<div class="tooltip" id="level32" style="z-index:9999l;">
+<strong>Station Name:</strong> Dhaka<br/>
+<strong>River Name:</strong> Buriganga<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Dhaka<br/>
+<strong>Upazilla:</strong> Keraniganj<br/>
+<strong>Union:</strong> Subhadya<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.75  mPWD<br/>
+<strong>Highest Water Level:</strong> 7.58 mPWD<br/>
+<strong>Danger Level:</strong> 6.00  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=33" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="484,592" data-leveldiff="50" data-show="#level33" titledes="5.75,3.13"></div></a>
+<div class="tooltip" id="level33" style="z-index:9999l;">
+<strong>Station Name:</strong> Demra<br/>
+<strong>River Name:</strong> Balu<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Dhaka<br/>
+<strong>Upazilla:</strong> Demra Thana<br/>
+<strong>Union:</strong> Demra Psa<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 3.13  mPWD<br/>
+<strong>Highest Water Level:</strong> 7.13 mPWD<br/>
+<strong>Danger Level:</strong> 5.75  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=34" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="348,585" data-leveldiff="50" data-show="#level34" titledes="8.65,5.85"></div></a>
+<div class="tooltip" id="level34" style="z-index:9999l;">
+<strong>Station Name:</strong> Goalondo<br/>
+<strong>River Name:</strong> Ganges<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Rajbari<br/>
+<strong>Upazilla:</strong> Goalanda<br/>
+<strong>Union:</strong> Debagram<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 5.85  mPWD<br/>
+<strong>Highest Water Level:</strong> 10.21 mPWD<br/>
+<strong>Danger Level:</strong> 8.65  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=35" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="454,579" data-leveldiff="50" data-show="#level35" titledes="5.95,3.08"></div></a>
+<div class="tooltip" id="level35" style="z-index:9999l;">
+<strong>Station Name:</strong> Mirpur<br/>
+<strong>River Name:</strong> Turag<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Dhaka<br/>
+<strong>Upazilla:</strong> Mirpur Thana<br/>
+<strong>Union:</strong> Mirpur<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 3.08  mPWD<br/>
+<strong>Highest Water Level:</strong> 8.35 mPWD<br/>
+<strong>Danger Level:</strong> 5.95  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=36" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="190,579" data-leveldiff="50" data-show="#level36" titledes="14.50,7.61"></div></a>
+<div class="tooltip" id="level36" style="z-index:9999l;">
+<strong>Station Name:</strong> Hatboalia<br/>
+<strong>River Name:</strong> Mathabhanga<br/>
+<strong>Division:</strong> Khulna<br/>
+<strong>District:</strong> Chuadanga<br/>
+<strong>Upazilla:</strong> Alamdanga<br/>
+<strong>Union:</strong> Bhangabaria<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 7.61  mPWD<br/>
+<strong>Highest Water Level:</strong> 15.13 mPWD<br/>
+<strong>Danger Level:</strong> 14.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=37" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="387,565" data-leveldiff="50" data-show="#level37" titledes="8.40,4.17"></div></a>
+<div class="tooltip" id="level37" style="z-index:9999l;">
+<strong>Station Name:</strong> Taraghat<br/>
+<strong>River Name:</strong> Kaliganga<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Manikganj<br/>
+<strong>Upazilla:</strong> Manikganj Sadar<br/>
+<strong>Union:</strong> Dighi<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 4.17  mPWD<br/>
+<strong>Highest Water Level:</strong> 10.39 mPWD<br/>
+<strong>Danger Level:</strong> 8.40  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=38" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="354,561" data-leveldiff="50" data-show="#level38" titledes="9.40,6.61"></div></a>
+<div class="tooltip" id="level38" style="z-index:9999l;">
+<strong>Station Name:</strong> Aricha<br/>
+<strong>River Name:</strong> Jamuna<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Manikganj<br/>
+<strong>Upazilla:</strong> Shibalaya<br/>
+<strong>Union:</strong> Teota<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 6.61  mPWD<br/>
+<strong>Highest Water Level:</strong> 10.76 mPWD<br/>
+<strong>Danger Level:</strong> 9.40  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=39" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="399,561" data-leveldiff="50" data-show="#level39" titledes="8.25,3.30"></div></a>
+<div class="tooltip" id="level39" style="z-index:9999l;">
+<strong>Station Name:</strong> Jagir<br/>
+<strong>River Name:</strong> Old Dhaleswari<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Manikganj<br/>
+<strong>Upazilla:</strong> Manikganj Sadar<br/>
+<strong>Union:</strong> Jaigir<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 3.30  mPWD<br/>
+<strong>Highest Water Level:</strong> 9.73 mPWD<br/>
+<strong>Danger Level:</strong> 8.25  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=40" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="248,561" data-leveldiff="50" data-show="#level40" titledes="12.75,5.01"></div></a>
+<div class="tooltip" id="level40" style="z-index:9999l;">
+<strong>Station Name:</strong> Gorai-RB<br/>
+<strong>River Name:</strong> Gorai<br/>
+<strong>Division:</strong> Khulna<br/>
+<strong>District:</strong> Kushtia<br/>
+<strong>Upazilla:</strong> Kumarkhali<br/>
+<strong>Union:</strong> Chapra<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 5.01  mPWD<br/>
+<strong>Highest Water Level:</strong> 13.65 mPWD<br/>
+<strong>Danger Level:</strong> 12.75  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=41" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="466,561" data-leveldiff="50" data-show="#level41" titledes="6.10,3.59"></div></a>
+<div class="tooltip" id="level41" style="z-index:9999l;">
+<strong>Station Name:</strong> Tongi<br/>
+<strong>River Name:</strong> Tongi Khal<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Gazipur<br/>
+<strong>Upazilla:</strong> Gazipur Sadar<br/>
+<strong>Union:</strong> Paurashava<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 3.59  mPWD<br/>
+<strong>Highest Water Level:</strong> 7.84 mPWD<br/>
+<strong>Danger Level:</strong> 6.10  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=42" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="573,526" data-leveldiff="50" data-show="#level42" titledes="5.15,2.23"></div></a>
+<div class="tooltip" id="level42" style="z-index:9999l;">
+<strong>Station Name:</strong> Bhairabbazar<br/>
+<strong>River Name:</strong> Upper Meghna<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Kishorganj<br/>
+<strong>Upazilla:</strong> Bhairab<br/>
+<strong>Union:</strong> Paurashava<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.23  mMSL<br/>
+<strong>Highest Water Level:</strong> 6.69 mMSL<br/>
+<strong>Danger Level:</strong> 5.15  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=43" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="219,525" data-leveldiff="50" data-show="#level43" titledes="14.25,6.48"></div></a>
+<div class="tooltip" id="level43" style="z-index:9999l;">
+<strong>Station Name:</strong> Hardinge-RB<br/>
+<strong>River Name:</strong> Ganges<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Pabna<br/>
+<strong>Upazilla:</strong> Ishwardi<br/>
+<strong>Union:</strong> Pakshi<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 6.48  mPWD<br/>
+<strong>Highest Water Level:</strong> 15.19 mPWD<br/>
+<strong>Danger Level:</strong> 14.25  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=44" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="436,555" data-leveldiff="50" data-show="#level44" titledes="7.30,3.15"></div></a>
+<div class="tooltip" id="level44" style="z-index:9999l;">
+<strong>Station Name:</strong> Nayarhat<br/>
+<strong>River Name:</strong> Bangshi<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Tangail<br/>
+<strong>Upazilla:</strong> Mirzapur<br/>
+<strong>Union:</strong> Ajgana<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 3.15  mPWD<br/>
+<strong>Highest Water Level:</strong> 8.39 mPWD<br/>
+<strong>Danger Level:</strong> 7.30  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=45" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="136,464" data-leveldiff="50" data-show="#level45" titledes="18.50,8.81"></div></a>
+<div class="tooltip" id="level45" style="z-index:9999l;">
+<strong>Station Name:</strong> Rajshahi<br/>
+<strong>River Name:</strong> Ganges<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Rajshahi<br/>
+<strong>Upazilla:</strong> Paba<br/>
+<strong>Union:</strong> Haripur<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 8.81  mPWD<br/>
+<strong>Highest Water Level:</strong> 20.00 mPWD<br/>
+<strong>Danger Level:</strong> 18.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=46" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="647,459" data-leveldiff="50" data-show="#level46" titledes="9.05,5.80"></div></a>
+<div class="tooltip" id="level46" style="z-index:9999l;">
+<strong>Station Name:</strong> Habiganj<br/>
+<strong>River Name:</strong> Khowai<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Habiganj<br/>
+<strong>Upazilla:</strong> Baniachong<br/>
+<strong>Union:</strong> Umednagar<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 5.80  mMSL<br/>
+<strong>Highest Water Level:</strong> 11.83 mMSL<br/>
+<strong>Danger Level:</strong> 9.05  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=47" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="741,452" data-leveldiff="50" data-show="#level47" titledes="17.15,13.42"></div></a>
+<div class="tooltip" id="level47" style="z-index:9999l;">
+<strong>Station Name:</strong> Manu-RB<br/>
+<strong>River Name:</strong> Manu<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Maulvibazar<br/>
+<strong>Upazilla:</strong> Kulaura<br/>
+<strong>Union:</strong> Tilagaon<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 13.42  mMSL<br/>
+<strong>Highest Water Level:</strong> 19.57 mMSL<br/>
+<strong>Danger Level:</strong> 17.15  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=48" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="344,445" data-leveldiff="50" data-show="#level48" titledes="13.35,11.01"></div></a>
+<div class="tooltip" id="level48" style="z-index:9999l;">
+<strong>Station Name:</strong> Serajganj<br/>
+<strong>River Name:</strong> Jamuna<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Sirajganj<br/>
+<strong>Upazilla:</strong> Sirajganj Sadar<br/>
+<strong>Union:</strong> Paurashava<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 11.01  mPWD<br/>
+<strong>Highest Water Level:</strong> 15.12 mPWD<br/>
+<strong>Danger Level:</strong> 13.35  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=49" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="712,439" data-leveldiff="50" data-show="#level49" titledes="10.70,7.78"></div></a>
+<div class="tooltip" id="level49" style="z-index:9999l;">
+<strong>Station Name:</strong> Moulvibazar<br/>
+<strong>River Name:</strong> Manu<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Maulvibazar<br/>
+<strong>Upazilla:</strong> Rajnagar<br/>
+<strong>Union:</strong> Kamar Chak<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 7.78  mMSL<br/>
+<strong>Highest Water Level:</strong> 12.21 mMSL<br/>
+<strong>Danger Level:</strong> 10.70  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=51" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="83,419" data-leveldiff="50" data-show="#level51" titledes="21.00,13.52"></div></a>
+<div class="tooltip" id="level51" style="z-index:9999l;">
+<strong>Station Name:</strong> C-Nawabganj<br/>
+<strong>River Name:</strong> Mohananda<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Chapai Nawabganj<br/>
+<strong>Upazilla:</strong> Nawabganj Sadar<br/>
+<strong>Union:</strong> Balidanga<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 13.52  mPWD<br/>
+<strong>Highest Water Level:</strong> 23.01 mPWD<br/>
+<strong>Danger Level:</strong> 21.00  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=52" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="696,414" data-leveldiff="50" data-show="#level52" titledes="8.05,6.73"></div></a>
+<div class="tooltip" id="level52" style="z-index:9999l;">
+<strong>Station Name:</strong> Sherpur-Sylhet<br/>
+<strong>River Name:</strong> Kushiyara<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Maulvibazar<br/>
+<strong>Upazilla:</strong> Maulvi Bazar Sadar<br/>
+<strong>Union:</strong> Khalilpur<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 6.73  mMSL<br/>
+<strong>Highest Water Level:</strong> 8.72 mMSL<br/>
+<strong>Danger Level:</strong> 8.05  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=53" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="472,394" data-leveldiff="50" data-show="#level53" titledes="12.50,6.15"></div></a>
+<div class="tooltip" id="level53" style="z-index:9999l;">
+<strong>Station Name:</strong> Mymensingh<br/>
+<strong>River Name:</strong> Old Brahmaputra<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Mymensingh<br/>
+<strong>Upazilla:</strong> Gauripur<br/>
+<strong>Union:</strong> Bhangnamari<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 6.15  mPWD<br/>
+<strong>Highest Water Level:</strong> 13.71 mPWD<br/>
+<strong>Danger Level:</strong> 12.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=54" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="171,359" data-leveldiff="50" data-show="#level54" titledes="18.60,13.49"></div></a>
+<div class="tooltip" id="level54" style="z-index:9999l;">
+<strong>Station Name:</strong> Mohadevpur<br/>
+<strong>River Name:</strong> Atrai<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Naogaon<br/>
+<strong>Upazilla:</strong> Manda<br/>
+<strong>Union:</strong> Bhalain<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 13.49  mPWD<br/>
+<strong>Highest Water Level:</strong> 19.89 mPWD<br/>
+<strong>Danger Level:</strong> 18.60  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=55" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="286,375" data-leveldiff="50" data-show="#level55" titledes="16.30,13.38"></div></a>
+<div class="tooltip" id="level55" style="z-index:9999l;">
+<strong>Station Name:</strong> Bogra<br/>
+<strong>River Name:</strong> Karatoa<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Bogra<br/>
+<strong>Upazilla:</strong> Shajahanpur<br/>
+<strong>Union:</strong> Sultanganj<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 13.38  mPWD<br/>
+<strong>Highest Water Level:</strong> 17.45 mPWD<br/>
+<strong>Danger Level:</strong> 16.30  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=56" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="285,314" data-leveldiff="50" data-show="#level56" titledes="20.15,16.03"></div></a>
+<div class="tooltip" id="level56" style="z-index:9999l;">
+<strong>Station Name:</strong> Chakrahimpur<br/>
+<strong>River Name:</strong> Karatoa<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Bogra<br/>
+<strong>Upazilla:</strong> Bogra Sadar<br/>
+<strong>Union:</strong> Shabgram<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 16.03  mPWD<br/>
+<strong>Highest Water Level:</strong> 21.41 mPWD<br/>
+<strong>Danger Level:</strong> 20.15  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=57" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="204,372" data-leveldiff="50" data-show="#level57" titledes="15.25,11.45"></div></a>
+<div class="tooltip" id="level57" style="z-index:9999l;">
+<strong>Station Name:</strong> Naogaon<br/>
+<strong>River Name:</strong> Little Jamuna<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Naogaon<br/>
+<strong>Upazilla:</strong> Naogaon Sadar<br/>
+<strong>Union:</strong> Tilakpur<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 11.45  mPWD<br/>
+<strong>Highest Water Level:</strong> 16.20 mPWD<br/>
+<strong>Danger Level:</strong> 15.25  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=58" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="94,376" data-leveldiff="50" data-show="#level58" titledes="22.00,14.24"></div></a>
+<div class="tooltip" id="level58" style="z-index:9999l;">
+<strong>Station Name:</strong> Rohanpur<br/>
+<strong>River Name:</strong> Punarvaba<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Chapai Nawabganj<br/>
+<strong>Upazilla:</strong> Gomastapur<br/>
+<strong>Union:</strong> Bhangabaria<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 14.24  mPWD<br/>
+<strong>Highest Water Level:</strong> 23.83 mPWD<br/>
+<strong>Danger Level:</strong> 22.00  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=59" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="723,362" data-leveldiff="50" data-show="#level59" titledes="10.15,6.65"></div></a>
+<div class="tooltip" id="level59" style="z-index:9999l;">
+<strong>Station Name:</strong> Sylhet<br/>
+<strong>River Name:</strong> Surma<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Sylhet<br/>
+<strong>Upazilla:</strong> Sylhet Sadar<br/>
+<strong>Union:</strong> Baraikandi<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 6.65  mMSL<br/>
+<strong>Highest Water Level:</strong> 11.35 mMSL<br/>
+<strong>Danger Level:</strong> 10.15  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=60" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="835,364" data-leveldiff="50" data-show="#level60" titledes="14.95,10.37"></div></a>
+<div class="tooltip" id="level60" style="z-index:9999l;">
+<strong>Station Name:</strong> Amalshid<br/>
+<strong>River Name:</strong> Kushiyara<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Sylhet<br/>
+<strong>Upazilla:</strong> Zakiganj<br/>
+<strong>Union:</strong> Bara Thakuri<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 10.37  mMSL<br/>
+<strong>Highest Water Level:</strong> 17.36 mMSL<br/>
+<strong>Danger Level:</strong> 14.95  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=61" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="784,362" data-leveldiff="50" data-show="#level61" titledes="12.50,9.03"></div></a>
+<div class="tooltip" id="level61" style="z-index:9999l;">
+<strong>Station Name:</strong> Sheola<br/>
+<strong>River Name:</strong> Kushiyara<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Sylhet<br/>
+<strong>Upazilla:</strong> Beani Bazar<br/>
+<strong>Union:</strong> Sheola<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 9.03  mMSL<br/>
+<strong>Highest Water Level:</strong> 13.63 mMSL<br/>
+<strong>Danger Level:</strong> 12.50  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=62" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="386,354" data-leveldiff="50" data-show="#level62" titledes="17.00,11.48"></div></a>
+<div class="tooltip" id="level62" style="z-index:9999l;">
+<strong>Station Name:</strong> Jamalpur<br/>
+<strong>River Name:</strong> Old Brahmaputra<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Sherpur<br/>
+<strong>Upazilla:</strong> Sherpur Sadar<br/>
+<strong>Union:</strong> Char Pakshimari<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 11.48  mPWD<br/>
+<strong>Highest Water Level:</strong> 18.00 mPWD<br/>
+<strong>Danger Level:</strong> 17.00  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=63" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="510,340" data-leveldiff="50" data-show="#level63" titledes="9.95,7.35"></div></a>
+<div class="tooltip" id="level63" style="z-index:9999l;">
+<strong>Station Name:</strong> Jariajanjail<br/>
+<strong>River Name:</strong> Kangsha<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Netrokona<br/>
+<strong>Upazilla:</strong> Durgapur<br/>
+<strong>Union:</strong> Kakairgara<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 7.35  mMSL<br/>
+<strong>Highest Water Level:</strong> 12.30 mMSL<br/>
+<strong>Danger Level:</strong> 9.95  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=64" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="798,339" data-leveldiff="50" data-show="#level64" titledes="12.25,8.01"></div></a>
+<div class="tooltip" id="level64" style="z-index:9999l;">
+<strong>Station Name:</strong> Kanaighat<br/>
+<strong>River Name:</strong> Surma<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Sylhet<br/>
+<strong>Upazilla:</strong> Kanaighat<br/>
+<strong>Union:</strong> Paschim Dighirpar<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 8.01  mMSL<br/>
+<strong>Highest Water Level:</strong> 14.31 mMSL<br/>
+<strong>Danger Level:</strong> 12.25  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=65" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="644,328" data-leveldiff="50" data-show="#level65" titledes="7.20,5.32"></div></a>
+<div class="tooltip" id="level65" style="z-index:9999l;">
+<strong>Station Name:</strong> Sunamganj<br/>
+<strong>River Name:</strong> Surma<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Sunamganj<br/>
+<strong>Upazilla:</strong> Sunamganj Sadar<br/>
+<strong>Union:</strong> Paurashava<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 5.32  mMSL<br/>
+<strong>Highest Water Level:</strong> 8.72 mMSL<br/>
+<strong>Danger Level:</strong> 7.20  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=66" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="340,321" data-leveldiff="50" data-show="#level66" titledes="19.50,16.52"></div></a>
+<div class="tooltip" id="level66" style="z-index:9999l;">
+<strong>Station Name:</strong> Bahadurabad<br/>
+<strong>River Name:</strong> Jamuna<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Jamalpur<br/>
+<strong>Upazilla:</strong> Islampur<br/>
+<strong>Union:</strong> Belgachha<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 16.52  mPWD<br/>
+<strong>Highest Water Level:</strong> 20.84 mPWD<br/>
+<strong>Danger Level:</strong> 19.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=67" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="511,318" data-leveldiff="50" data-show="#level67" titledes="12.40,9.59"></div></a>
+<div class="tooltip" id="level67" style="z-index:9999l;">
+<strong>Station Name:</strong> Durgapur<br/>
+<strong>River Name:</strong> Someswari<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Netrokona<br/>
+<strong>Upazilla:</strong> Durgapur<br/>
+<strong>Union:</strong> Kullagora<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 9.59  mMSL<br/>
+<strong>Highest Water Level:</strong> 14.60 mMSL<br/>
+<strong>Danger Level:</strong> 12.40  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=68" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="771,322" data-leveldiff="50" data-show="#level68" titledes="11.75,6.82"></div></a>
+<div class="tooltip" id="level68" style="z-index:9999l;">
+<strong>Station Name:</strong> Sarighat<br/>
+<strong>River Name:</strong> Sarigowain<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Sylhet<br/>
+<strong>Upazilla:</strong> Gowainghat<br/>
+<strong>Union:</strong> Purba Jaflong<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 6.82  mMSL<br/>
+<strong>Highest Water Level:</strong> 13.45 mMSL<br/>
+<strong>Danger Level:</strong> 11.75  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=69" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="434,305" data-leveldiff="50" data-show="#level69" titledes="21.90,18.18"></div></a>
+<div class="tooltip" id="level69" style="z-index:9999l;">
+<strong>Station Name:</strong> Nakuagaon<br/>
+<strong>River Name:</strong> Bhugai<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Sherpur<br/>
+<strong>Upazilla:</strong> Nalitabari<br/>
+<strong>Union:</strong> Ramchandrakura Mandalia<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 18.18  mMSL<br/>
+<strong>Highest Water Level:</strong> 25.51 mMSL<br/>
+<strong>Danger Level:</strong> 21.90  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=70" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="617,304" data-leveldiff="50" data-show="#level70" titledes="8.00,4.83"></div></a>
+<div class="tooltip" id="level70" style="z-index:9999l;">
+<strong>Station Name:</strong> Lourergorh<br/>
+<strong>River Name:</strong> Jadukata<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Sunamganj<br/>
+<strong>Upazilla:</strong> Tahirpur<br/>
+<strong>Union:</strong> Uttar Badal<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 4.83  mMSL<br/>
+<strong>Highest Water Level:</strong> 11.33 mMSL<br/>
+<strong>Danger Level:</strong> 8.00  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=71" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="312,274" data-leveldiff="50" data-show="#level71" titledes="21.70,18.64"></div></a>
+<div class="tooltip" id="level71" style="z-index:9999l;">
+<strong>Station Name:</strong> Gaibandha<br/>
+<strong>River Name:</strong> Ghagot<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Gaibandha<br/>
+<strong>Upazilla:</strong> Gaibandha Sadar<br/>
+<strong>Union:</strong> Kholahati<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 18.64  mPWD<br/>
+<strong>Highest Water Level:</strong> 22.81 mPWD<br/>
+<strong>Danger Level:</strong> 21.70  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=72" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="340,236" data-leveldiff="50" data-show="#level72" titledes="23.70,20.95"></div></a>
+<div class="tooltip" id="level72" style="z-index:9999l;">
+<strong>Station Name:</strong> Chilmari<br/>
+<strong>River Name:</strong> Brahmaputra<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Kurigram<br/>
+<strong>Upazilla:</strong> Chilmari<br/>
+<strong>Union:</strong> Chilmari<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 20.95  mPWD<br/>
+<strong>Highest Water Level:</strong> 25.07 mPWD<br/>
+<strong>Danger Level:</strong> 23.70  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=73" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="170,191" data-leveldiff="50" data-show="#level73" titledes="39.60,36.09"></div></a>
+<div class="tooltip" id="level73" style="z-index:9999l;">
+<strong>Station Name:</strong> Bhusirbandar<br/>
+<strong>River Name:</strong> Upper Atrai<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Dinajpur<br/>
+<strong>Upazilla:</strong> Chirirbdndar<br/>
+<strong>Union:</strong> Bhiail<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 36.09  mPWD<br/>
+<strong>Highest Water Level:</strong> 41.10 mPWD<br/>
+<strong>Danger Level:</strong> 39.60  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=74" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="148,228" data-leveldiff="50" data-show="#level74" titledes="33.50,28.61"></div></a>
+<div class="tooltip" id="level74" style="z-index:9999l;">
+<strong>Station Name:</strong> Dinajpur<br/>
+<strong>River Name:</strong> Punarbhaba<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Dinajpur<br/>
+<strong>Upazilla:</strong> Dinajpur Sadar<br/>
+<strong>Union:</strong> Chehelgazi<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 28.61  mPWD<br/>
+<strong>Highest Water Level:</strong> 34.40 mPWD<br/>
+<strong>Danger Level:</strong> 33.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=75" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="295,188" data-leveldiff="50" data-show="#level75" titledes="29.20,27.59"></div></a>
+<div class="tooltip" id="level75" style="z-index:9999l;">
+<strong>Station Name:</strong> Kaunia<br/>
+<strong>River Name:</strong> Teesta<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Lalmonirhat<br/>
+<strong>Upazilla:</strong> Lalmonirhat Sadar<br/>
+<strong>Union:</strong> Gokunda<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 27.59  mPWD<br/>
+<strong>Highest Water Level:</strong> 30.52 mPWD<br/>
+<strong>Danger Level:</strong> 29.20  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=76" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="230,210" data-leveldiff="50" data-show="#level76" titledes="32.15,26.96"></div></a>
+<div class="tooltip" id="level76" style="z-index:9999l;">
+<strong>Station Name:</strong> Badarganj<br/>
+<strong>River Name:</strong> Jamuneswari<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Rangpur<br/>
+<strong>Upazilla:</strong> Taraganj<br/>
+<strong>Union:</strong> Kursha<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 26.96  mPWD<br/>
+<strong>Highest Water Level:</strong> 33.61 mPWD<br/>
+<strong>Danger Level:</strong> 32.15  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=77" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="336,182" data-leveldiff="50" data-show="#level77" titledes="26.50,23.89"></div></a>
+<div class="tooltip" id="level77" style="z-index:9999l;">
+<strong>Station Name:</strong> Kurigram<br/>
+<strong>River Name:</strong> Dharla<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Kurigram<br/>
+<strong>Upazilla:</strong> Kurigram Sadar<br/>
+<strong>Union:</strong> Paurashava<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 23.89  mPWD<br/>
+<strong>Highest Water Level:</strong> 27.84 mPWD<br/>
+<strong>Danger Level:</strong> 26.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=78" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="354,163" data-leveldiff="50" data-show="#level78" titledes="26.50,23.20"></div></a>
+<div class="tooltip" id="level78" style="z-index:9999l;">
+<strong>Station Name:</strong> Noonkhawa<br/>
+<strong>River Name:</strong> Brahmaputra<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Kurigram<br/>
+<strong>Upazilla:</strong> Nageshwari<br/>
+<strong>Union:</strong> Kaliganj<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 23.20  mPWD<br/>
+<strong>Highest Water Level:</strong> 28.10 mPWD<br/>
+<strong>Danger Level:</strong> 26.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=79" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="208,245" data-leveldiff="50" data-show="#level79" titledes="29.95,25.68"></div></a>
+<div class="tooltip" id="level79" style="z-index:9999l;">
+<strong>Station Name:</strong> Phulbari<br/>
+<strong>River Name:</strong> Ichamati-Jamuna<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Dinajpur<br/>
+<strong>Upazilla:</strong> Birganj<br/>
+<strong>Union:</strong> Mohanpur<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 25.68  mPWD<br/>
+<strong>Highest Water Level:</strong>  mPWD<br/>
+<strong>Danger Level:</strong> 29.95  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=80" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="232,122" data-leveldiff="50" data-show="#level80" titledes="52.60,51.35"></div></a>
+<div class="tooltip" id="level80" style="z-index:9999l;">
+<strong>Station Name:</strong> Dalia<br/>
+<strong>River Name:</strong> Teesta<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Nilphamari<br/>
+<strong>Upazilla:</strong> Dimla<br/>
+<strong>Union:</strong> Khalisa Chapani<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 51.35  mPWD<br/>
+<strong>Highest Water Level:</strong> 53.05 mPWD<br/>
+<strong>Danger Level:</strong> 52.60  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=81" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="139,82" data-leveldiff="50" data-show="#level81" titledes="70.75,67.14"></div></a>
+<div class="tooltip" id="level81" style="z-index:9999l;">
+<strong>Station Name:</strong> Panchagarh<br/>
+<strong>River Name:</strong> Upper Karatoa<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Panchagarh<br/>
+<strong>Upazilla:</strong> Panchagar Sadar<br/>
+<strong>Union:</strong> Panchagarh<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 67.14  mPWD<br/>
+<strong>Highest Water Level:</strong> 72.65 mPWD<br/>
+<strong>Danger Level:</strong> 70.75  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=82" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="48,416" data-leveldiff="50" data-show="#level82" titledes="22.50,12.01"></div></a>
+<div class="tooltip" id="level82" style="z-index:9999l;">
+<strong>Station Name:</strong> Pankha<br/>
+<strong>River Name:</strong> Ganges<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Nawabganj<br/>
+<strong>Upazilla:</strong> Shibganj<br/>
+<strong>Union:</strong> Panka<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 12.01  mPWD<br/>
+<strong>Highest Water Level:</strong> 24.14 mPWD<br/>
+<strong>Danger Level:</strong> 22.50  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=83" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="681,519" data-leveldiff="50" data-show="#level83" titledes="21.40,19.39"></div></a>
+<div class="tooltip" id="level83" style="z-index:9999l;">
+<strong>Station Name:</strong> Ballah<br/>
+<strong>River Name:</strong> Khowai<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Habiganj<br/>
+<strong>Upazilla:</strong> Chunarughat<br/>
+<strong>Union:</strong> Ahmadabad<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 19.39  mMSL<br/>
+<strong>Highest Water Level:</strong> 25.74 mMSL<br/>
+<strong>Danger Level:</strong> 21.40  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=86" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="725,467" data-leveldiff="50" data-show="#level86" titledes="18.85,16.38"></div></a>
+<div class="tooltip" id="level86" style="z-index:9999l;">
+<strong>Station Name:</strong> Kamalganj<br/>
+<strong>River Name:</strong> Dhalai<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Moulvibazar<br/>
+<strong>Upazilla:</strong> Kamalganj<br/>
+<strong>Union:</strong> Kamalganj<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 16.38  mMSL<br/>
+<strong>Highest Water Level:</strong> 20.25 mMSL<br/>
+<strong>Danger Level:</strong> 18.85  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=87" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="339,414" data-leveldiff="50" data-show="#level87" titledes="15.25,13.05"></div></a>
+<div class="tooltip" id="level87" style="z-index:9999l;">
+<strong>Station Name:</strong> Kazipur<br/>
+<strong>River Name:</strong> Jamuna<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Sirajganj<br/>
+<strong>Upazilla:</strong> Kazipur<br/>
+<strong>Union:</strong> Tekani<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 13.05  mPWD<br/>
+<strong>Highest Water Level:</strong>  mPWD<br/>
+<strong>Danger Level:</strong> 15.25  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=89" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="510,620" data-leveldiff="50" data-show="#level89" titledes="3.55,1.34"></div></a>
+<div class="tooltip" id="level89" style="z-index:9999l;">
+<strong>Station Name:</strong> Meghna-Br<br/>
+<strong>River Name:</strong> Meghna<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Munshiganj<br/>
+<strong>Upazilla:</strong> Gazaria<br/>
+<strong>Union:</strong> Tenger Char<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 1.34  mMSL<br/>
+<strong>Highest Water Level:</strong>  mMSL<br/>
+<strong>Danger Level:</strong> 3.55  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=91" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="481,623" data-leveldiff="50" data-show="#level91" titledes="5.20,2.63"></div></a>
+<div class="tooltip" id="level91" style="z-index:9999l;">
+<strong>Station Name:</strong> Rekabi-Bazar<br/>
+<strong>River Name:</strong> Dhaleswari<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Narayanganj<br/>
+<strong>Upazilla:</strong> Narayanganj Sadar<br/>
+<strong>Union:</strong> Rekabi Bazar<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.63  mPWD<br/>
+<strong>Highest Water Level:</strong> 7.66 mPWD<br/>
+<strong>Danger Level:</strong> 5.20  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=93" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="123,139" data-leveldiff="50" data-show="#level93" titledes="50.40,46.65"></div></a>
+<div class="tooltip" id="level93" style="z-index:9999l;">
+<strong>Station Name:</strong> Thakurgaon<br/>
+<strong>River Name:</strong> Tangon<br/>
+<strong>Division:</strong> Rangpur<br/>
+<strong>District:</strong> Thakurgaon<br/>
+<strong>Upazilla:</strong> Thakurgaon Sadar<br/>
+<strong>Union:</strong> Nargun<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 46.65  mPWD<br/>
+<strong>Highest Water Level:</strong> 51.30 mPWD<br/>
+<strong>Danger Level:</strong> 50.40  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=95" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="317,363" data-leveldiff="50" data-show="#level95" titledes="16.70,13.77"></div></a>
+<div class="tooltip" id="level95" style="z-index:9999l;">
+<strong>Station Name:</strong> Sariakandi<br/>
+<strong>River Name:</strong> Jamuna<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Bogra<br/>
+<strong>Upazilla:</strong> Sariakandi<br/>
+<strong>Union:</strong> Sariakandi<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 13.77  mPWD<br/>
+<strong>Highest Water Level:</strong> 19.07 mPWD<br/>
+<strong>Danger Level:</strong> 16.70  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=96" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="642,385" data-leveldiff="50" data-show="#level96" titledes="5.80,5.57"></div></a>
+<div class="tooltip" id="level96" style="z-index:9999l;">
+<strong>Station Name:</strong> Derai<br/>
+<strong>River Name:</strong> Surma Old Course<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Sunamganj<br/>
+<strong>Upazilla:</strong> Derai<br/>
+<strong>Union:</strong> Derai Sarmangal<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 5.57  mMSL<br/>
+<strong>Highest Water Level:</strong> 6.56 mMSL<br/>
+<strong>Danger Level:</strong> 5.80  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=97" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="320,514" data-leveldiff="50" data-show="#level97" titledes="10.40,7.56"></div></a>
+<div class="tooltip" id="level97" style="z-index:9999l;">
+<strong>Station Name:</strong> Baghabari<br/>
+<strong>River Name:</strong> Karatoa-Atrai-GGH<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Sirajganj<br/>
+<strong>Upazilla:</strong> Shahjadpur<br/>
+<strong>Union:</strong> Potajia<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 7.56  mPWD<br/>
+<strong>Highest Water Level:</strong> 12.45 mPWD<br/>
+<strong>Danger Level:</strong> 10.40  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=98" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="529,556" data-leveldiff="50" data-show="#level98" titledes="4.90,1.96"></div></a>
+<div class="tooltip" id="level98" style="z-index:9999l;">
+<strong>Station Name:</strong> Narsingdi<br/>
+<strong>River Name:</strong> Meghna<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Narsingdi<br/>
+<strong>Upazilla:</strong> Narsingdi Sadar<br/>
+<strong>Union:</strong> Hajipur<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 1.96  mMSL<br/>
+<strong>Highest Water Level:</strong> 6.20 mMSL<br/>
+<strong>Danger Level:</strong> 4.90  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=99" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="645,402" data-leveldiff="50" data-show="#level99" titledes="7.45,5.79"></div></a>
+<div class="tooltip" id="level99" style="z-index:9999l;">
+<strong>Station Name:</strong> Markuli<br/>
+<strong>River Name:</strong> Surma-Meghna<br/>
+<strong>Division:</strong> Sylhet<br/>
+<strong>District:</strong> Sunamganj<br/>
+<strong>Upazilla:</strong> Derai<br/>
+<strong>Union:</strong> Kulanj<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 5.79  mMSL<br/>
+<strong>Highest Water Level:</strong> 7.48 mMSL<br/>
+<strong>Danger Level:</strong> 7.45  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=100" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="593,401" data-leveldiff="50" data-show="#level100" titledes="7.05,4.03"></div></a>
+<div class="tooltip" id="level100" style="z-index:9999l;">
+<strong>Station Name:</strong> Khaliajuri<br/>
+<strong>River Name:</strong> Dhanu<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Netrakona<br/>
+<strong>Upazilla:</strong> Khaliajuri<br/>
+<strong>Union:</strong> Chakua<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 4.03  mMSL<br/>
+<strong>Highest Water Level:</strong> 8.07 mMSL<br/>
+<strong>Danger Level:</strong> 7.05  mMSL            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=101" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="512,530" data-leveldiff="50" data-show="#level101" titledes="5.80,3.66"></div></a>
+<div class="tooltip" id="level101" style="z-index:9999l;">
+<strong>Station Name:</strong> Lakhpur<br/>
+<strong>River Name:</strong> Lakhya<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Gazipur<br/>
+<strong>Upazilla:</strong> Kapasia<br/>
+<strong>Union:</strong> Durgapur<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 3.66  mPWD<br/>
+<strong>Highest Water Level:</strong> 8.69 mPWD<br/>
+<strong>Danger Level:</strong> 5.80  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=103" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="365,506" data-leveldiff="50" data-show="#level103" titledes="11.40,8.98"></div></a>
+<div class="tooltip" id="level103" style="z-index:9999l;">
+<strong>Station Name:</strong> Elasinghat<br/>
+<strong>River Name:</strong> Dhaleswari<br/>
+<strong>Division:</strong> Dhaka<br/>
+<strong>District:</strong> Tangail<br/>
+<strong>Upazilla:</strong> Tangail Sadar<br/>
+<strong>Union:</strong> Katuli<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 8.98  mPWD<br/>
+<strong>Highest Water Level:</strong> 12.52 mPWD<br/>
+<strong>Danger Level:</strong> 11.40  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=105" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="240,440" data-leveldiff="50" data-show="#level105" titledes="12.65,11.18"></div></a>
+<div class="tooltip" id="level105" style="z-index:9999l;">
+<strong>Station Name:</strong> Singra<br/>
+<strong>River Name:</strong> Gur<br/>
+<strong>Division:</strong> Rajshahi<br/>
+<strong>District:</strong> Natore<br/>
+<strong>Upazilla:</strong> Singra<br/>
+<strong>Union:</strong> <br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 11.18  mPWD<br/>
+<strong>Highest Water Level:</strong> 13.67 mPWD<br/>
+<strong>Danger Level:</strong> 12.65  mPWD            </div>
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=108" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="621,529" data-leveldiff="50" data-show="#level108" titledes="4.45,2.48"></div></a>
+<div class="tooltip" id="level108" style="z-index:9999l;">
+<strong>Station Name:</strong> B. Baria<br/>
+<strong>River Name:</strong> Titas<br/>
+<strong>Division:</strong> Chittagong<br/>
+<strong>District:</strong> Brahmmonbaria<br/>
+<strong>Upazilla:</strong> B. Baria Sadar<br/>
+<strong>Union:</strong> Pouroshova<br/><hr/>
+<!--<strong>Average Land Level:</strong>  (mPWD)<br />-->
+<strong>Water Level:</strong> 2.48  mMSL<br/>
+<strong>Highest Water Level:</strong> 5.47 mMSL<br/>
+<strong>Danger Level:</strong> 4.45  mMSL            </div>
+<img src="/modules/mod_map/assets/bangladesh-water-level-map.png">
+</img></div>]

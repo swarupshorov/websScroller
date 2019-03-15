@@ -35,8 +35,8 @@ def floodInfo():
 
     desp = []
     url = []
-    coordinate = [] 
-
+    coordinate = []
+    print(results)
     #================ parse html data ===================
     for result in results:
 
