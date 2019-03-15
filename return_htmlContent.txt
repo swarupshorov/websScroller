@@ -1,0 +1,38 @@
+﻿<div class="cb-col cb-col-100 cb-lst-itm cb-lst-itm-lg">
+	<div class="cb-col cb-col-33" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+		<meta content="205" itemprop="width"/> 
+		<meta content="152" itemprop="height"/> 
+		<meta content="https:/a/img/v1/205x152/i1/c165503/maharaj-will-be-key-for-south.jpg" itemprop="url"/>
+		<a href="/cricket-news/106723/live-cricket-score-south-africa-vs-sri-lanka-1st-test-day-4-durban-kusal-perera-vernon-philander-dale-steyn-kagiso-rabada" target="_self" title="Live Cricket Score - South Africa vs Sri Lanka, 1st Test, Day 4, Durban">
+			<img alt="Maharaj will be key for South Africa on the fourth day." class="cb-lst-img" height="152" itemprop="image" src="/a/img/v1/205x152/i1/c165503/maharaj-will-be-key-for-south.jpg" style="padding:0px;" title="Maharaj will be key for South Africa on the fourth day." width="205"/>
+		</a>
+	</div>
+	<div class="cb-col-67 cb-nws-lst-rt cb-col cb-col-text-container">
+		<div class="cb-nws-time">
+			<a class="cb-text-link" href="/cricket-news/editorial/live-blogs" target="_self" title="LIVE BLOG">LIVE BLOG</a>
+			<span class="cb-dot">���</span>SRI LANKA IN SOUTH AFRICA 2019
+		</div>
+		<h2 class="cb-nws-hdln cb-font-18 line-ht24">
+			<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/106723/live-cricket-score-south-africa-vs-sri-lanka-1st-test-day-4-durban-kusal-perera-vernon-philander-dale-steyn-kagiso-rabada" target="_self" title="Live Cricket Score - South Africa vs Sri Lanka, 1st Test, Day 4, Durban">Live Cricket Score - South Africa vs Sri Lanka, 1st Test, Day 4, Durban</a>
+		</h2>
+		<div class="cb-nws-intr">Catch all the live updates from the fourth day of the first Test between South Africa and Sri Lanka in Durban</div>
+		<div>
+			<span class="cb-nws-time">1h ago</span>
+		</div>
+	</div>
+</div>
+
+================== Beautiful Soup ================
+Beautiful Soup is a Python library for pulling data out of HTML and XML files.
+It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. 
+It commonly saves programmers hours or days of work.
+
+===================== pandas =====================
+Pandas is an open source Python package that provides numerous tools for data analysis.
+
+=================== requests =====================
+
+Requests is an Apache2 Licensed HTTP library, written in Python. 
+It is designed to be used by humans to interact with the language.
+This means you don’t have to manually add query strings to URLs, or form-encode your POST data. 
+Don’t worry if that made no sense to you. It will in due time.
