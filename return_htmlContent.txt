@@ -1,4 +1,5 @@
-﻿<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=1" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="774,970" data-leveldiff="50" data-show="#level1" titledes="6.25,2.95"></div></a>
+﻿
+<a class="modal" href="http://www.ffwc.gov.bd/ffwc_charts/index.php?stid=1" rel="{handler: 'iframe', size: {x: 913, y: 550}}"><div class="marker" data-coords="774,970" data-leveldiff="50" data-show="#level1" titledes="6.25,2.95"></div></a>
 <div class="tooltip" id="level1" style="z-index:9999l;">
 <strong>Station Name:</strong> Chiringa<br>
 <strong>River Name:</strong> Matamuhuri<br>
